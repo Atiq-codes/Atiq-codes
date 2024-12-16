@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on open-source projects, web apps, or any cool data science-related initiatives.
 - 📫 How to reach me: You can reach me via kaif796169@gmail.com .
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can code for hours fueled by a love of coffee and curiosity about how data shapes the world!
 
 
 <!---
